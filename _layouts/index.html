@@ -1,23 +1,59 @@
 <!DOCTYPE html>
 <html lang="es">
+
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{{ page.title }}</title>
   <link rel="stylesheet" href="assets/css/index.css">
 </head>
+
 <body>
+  <!-- Header -->
   <header>
-    <h1>{{ site.title }}</h1>
-    <p>{{ site.description }}</p>
+    <div class="header-container">
+      <h1>{{ site.title }}</h1>
+      <p>Bienvenido a TecnoHack-es: Tu portal sobre hacking ético y ciberseguridad</p>
+    </div>
   </header>
-  
+
+  <!-- Main Content -->
   <main>
-    {{ content }}  <!-- Esto es donde se inyecta el contenido de tus páginas -->
+    <section class="intro">
+      <h2>¿Qué hacemos en TecnoHack-es?</h2>
+      <p>En este blog, nos apasiona la ciberseguridad, el hacking ético, y la protección de datos. Nuestro objetivo es
+        proporcionarte las mejores guías, tutoriales, y consejos sobre cómo protegerte en línea y explorar el mundo del
+        hacking de manera ética.</p>
+    </section>
+
+    <!-- Aquí puedes añadir más secciones o artículos -->
+    <section class="articles">
+      {{ content }}
+    </section>
   </main>
-  
+
+  <!-- Footer -->
   <footer>
-    <p>&copy; {{ site.time | date: "%Y" }} - TecnoHack-es</p>
+    <div class="footer-container">
+      <nav class="footer-nav">
+        <ul>
+          <li><a href="/about/">Sobre Nosotros</a></li>
+          <li><a href="/contact/">Contacto</a></li>
+          <li><a href="/rss/">RSS</a></li>
+        </ul>
+      </nav>
+      <div class="site-map">
+        <h3>Mapa del sitio</h3>
+        <ul>
+          <li><a href="/">Inicio</a></li>
+          <li><a href="/tutorials/">Tutoriales</a></li>
+          <li><a href="/guides/">Guías</a></li>
+          <li><a href="/blog/">Blog</a></li>
+          <li><a href="/contact/">Contacto</a></li>
+        </ul>
+      </div>
+    </div>
   </footer>
 </body>
+
 </html>
