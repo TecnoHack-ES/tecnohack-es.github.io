@@ -6,7 +6,7 @@ body {
 
 /* Cambiar el color del título principal */
 h1 {
-  color: #2c3e50;
+  color: #67dd13;
   font-size: 2.5em;
   text-align: center;
   margin-top: 50px;
@@ -22,7 +22,7 @@ h2 {
 /* Estilo para el párrafo de bienvenida */
 p {
   font-size: 1.2em;
-  color: #555;
+  color: #37b012;
   line-height: 1.5;
   text-align: center;
   padding: 0 20px;
