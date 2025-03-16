@@ -1,5 +1,5 @@
 ---
-layout: index
+layout: default
 title: "TecnoHack-es"
 subtitle: "Tu portal sobre hacking ético y ciberseguridad"
 ---
