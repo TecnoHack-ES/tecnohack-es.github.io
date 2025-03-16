@@ -1,0 +1,193 @@
+/* Estilos generales */
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+    line-height: 1.7;
+    background-color: #f5f5f5; /* Fondo gris claro */
+    color: #333; /* Texto principal en gris oscuro */
+    font-size: 16px;
+}
+
+.container {
+    width: 85%;
+    max-width: 1200px;
+    margin: 0 auto;
+    overflow: hidden;
+}
+
+/* Estilo del encabezado */
+header {
+    background: #222; /* Fondo oscuro para encabezado */
+    color: #fff;
+    padding: 2rem 0;
+    text-align: center;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+header h1 {
+    font-size: 3rem;
+    margin-bottom: 0.5rem;
+    font-weight: 700;
+}
+
+header p {
+    font-size: 1.1rem;
+    margin: 0;
+    opacity: 0.7;
+}
+
+header nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 1.5rem 0 0;
+    display: flex;
+    justify-content: center;
+}
+
+header nav ul li {
+    margin: 0 1.5rem;
+}
+
+header nav ul li a {
+    color: #fff;
+    text-decoration: none;
+    font-weight: 500;
+    font-size: 1.1rem;
+    transition: color 0.3s ease;
+}
+
+header nav ul li a:hover {
+    color: #00ff9d; /* Verde neón para el hover */
+}
+
+/* Sección de introducción */
+.intro {
+    background: linear-gradient(45deg, #0077ff, #00ff9d); /* Azul eléctrico y verde neón */
+    color: #fff;
+    padding: 4rem 2rem;
+    text-align: center;
+    border-bottom: 2px solid #e0e0e0;
+}
+
+.intro h2 {
+    font-size: 2.5rem;
+    margin-bottom: 1rem;
+}
+
+.intro p {
+    font-size: 1.1rem;
+    margin-bottom: 1.5rem;
+    max-width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.intro .btn {
+    display: inline-block;
+    padding: 0.75rem 2rem;
+    background-color: #fff;
+    color: #0077ff; /* Azul eléctrico para los botones */
+    border-radius: 30px;
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 1.1rem;
+    transition: background-color 0.3s ease, transform 0.3s ease;
+}
+
+.intro .btn:hover {
+    background-color: #f1f1f1;
+    transform: translateY(-3px);
+}
+
+/* Artículos */
+.articles {
+    padding: 4rem 2rem;
+    background: #fafafa; /* Fondo gris muy claro */
+}
+
+.articles h2 {
+    text-align: center;
+    font-size: 2rem;
+    margin-bottom: 2rem;
+    font-weight: 700;
+    color: #333;
+}
+
+.articles article {
+    margin-bottom: 2rem;
+    border-bottom: 2px solid #ddd;
+    padding-bottom: 1.5rem;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.articles article:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+.articles article h3 {
+    font-size: 1.8rem;
+    margin-bottom: 1rem;
+    font-weight: 600;
+    color: #0077ff; /* Azul eléctrico para los títulos de artículos */
+}
+
+.articles article a {
+    color: #333;
+    text-decoration: none;
+    font-weight: 500;
+    transition: color 0.3s ease;
+}
+
+.articles article a:hover {
+    color: #00ff9d; /* Verde neón para el hover */
+}
+
+/* Sección sobre nosotros */
+.about {
+    padding: 4rem 2rem;
+    text-align: center;
+    background: #fff;
+    border-bottom: 2px solid #f0f0f0;
+}
+
+.about h2 {
+    font-size: 2.5rem;
+    margin-bottom: 1.5rem;
+    color: #333;
+}
+
+/* Sección de contacto */
+.contact {
+    padding: 4rem 2rem;
+    text-align: center;
+    background: #fafafa;
+}
+
+.contact h2 {
+    font-size: 2.5rem;
+    margin-bottom: 1.5rem;
+    color: #333;
+}
+
+/* Pie de página */
+footer {
+    background: #222; /* Fondo oscuro para el pie de página */
+    color: #fff;
+    text-align: center;
+    padding: 2rem 0;
+    margin-top: 2rem;
+    font-size: 1.1rem;
+    opacity: 0.7;
+}
+
+footer a {
+    color: #00ff9d; /* Verde neón para enlaces en el pie de página */
+    text-decoration: none;
+    font-weight: 600;
+}
+
+footer a:hover {
+    text-decoration: underline;
+}
