@@ -32,7 +32,7 @@ github_username:  jekyll
 # Build settings
 theme: minima
 styles:
-  -"assets/css/styles.css"
+  - "assets/css/styles.css"
 plugins:
   - jekyll-feed
 
