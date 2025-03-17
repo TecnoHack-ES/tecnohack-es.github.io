@@ -1,5 +1,5 @@
 ---
-layout: articulos
+layout: default
 title: "Mi Primer Artículo"
 date: 2025-03-17
 permalink: /sobre-nosotros/
