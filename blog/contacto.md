@@ -1,7 +1,7 @@
 ---
-layout: contacto
+layout: contactos
 title: "Contacto"
-permalink: contacto/
+permalink: /contacto/
 ---
 # Contacto
 
