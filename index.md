@@ -15,7 +15,7 @@ title: "Bienvenido a TecnoHack"
 Ciberseguridad es un conjunto de estándares y prácticas que protegen aplicaciones, datos, programas, redes y sistemas de ciberataques y accesos no autorizados.
 
 ### Recursos de ciberseguridad
-- [Tipos de ciberataques: DDoS, ransomware y más](#)
+- [Tipos de ciberataques: DDoS, ransomware y más](/sobre-nosotros/)
 - [Ciberseguridad en TI vs. OT](#)
 - [Ciberseguridad en IA](#)
 - [Inteligencia de amenazas](#)
