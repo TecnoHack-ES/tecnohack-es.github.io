@@ -1,5 +1,5 @@
 /* Estilos para artículos */
-.article-container {
+article {
     max-width: 800px;
     margin: 50px auto;
     padding: 20px;
@@ -9,26 +9,26 @@
     box-shadow: 0 0 10px rgba(255, 51, 51, 0.3);
 }
 
-.article-container h1 {
+article h1 {
     color: #ff3333;
     font-size: 2.5em;
     text-align: center;
 }
 
-.article-container p {
+article p {
     font-size: 1.2em;
     line-height: 1.6;
     color: #ccc;
 }
 
-.article-container img {
+article img {
     max-width: 100%;
     display: block;
     margin: 20px auto;
     border-radius: 5px;
 }
 
-.article-container .btn {
+article .btn {
     display: inline-block;
     padding: 10px 20px;
     margin-top: 20px;

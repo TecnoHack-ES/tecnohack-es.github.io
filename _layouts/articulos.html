@@ -4,19 +4,30 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{{ page.title }}</title>
+    <link rel="stylesheet" href="{{ site.baseurl }}assets/css/default.css">
     <link rel="stylesheet" href="{{ site.baseurl }}../assets/css/articulos.css">
 </head>
 <body>
 
-    <header>
-        <h1>TecnoHack - Blog</h1>
-    </header>
+         <header>
+            <div class="container">
+                <h1>TecnoHack</h1>
+                <nav>
+                    <ul>
+                        <li><a href="/">Inicio</a></li>
+                        <li><a href="/sobre-nosotros/">Sobre Nosotros</a></li>
+                        <li><a href="/contacto/marcos">Contacto</a></li>
+                        <li><a href="/rss/">RSS</a></li>
+                    </ul>
+                </nav>
+            </div>
+        </header>
 
-    <div class="article-container">
+    <article>
         <h1>{{ page.title }}</h1>
         <p><em>Publicado el {{ page.date | date: "%d de %B de %Y" }}</em></p>
         {{ content }}
-    </div>
+    </article>
 
     <footer>
         <p>© 2025 TecnoHack. Todos los derechos reservados.</p>
