@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ page.title }}</title>
+    <link rel="stylesheet" href="assets/css/contacto.css">
+</head>
+<body>
+
+    <header>
+        <h1>Contacto</h1>
+    </header>
+
+    <div class="contact-card">
+        <img src="{{ page.image }}" alt="Foto de {{ page.name }}">
+        <h2>{{ page.name }}</h2>
+        <p>{{ page.role }}</p>
+        <p>{{ page.email }}</p>
+        <a href="mailto:{{ page.email }}">Enviar Email</a>
+    </div>
+
+    <footer>
+        <p>© 2025 TecnoHack. Todos los derechos reservados.</p>
+    </footer>
+
+</body>
+</html>

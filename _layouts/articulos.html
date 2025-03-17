@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ page.title }}</title>
+    <link rel="stylesheet" href="assets/css/articulos.css">
+</head>
+<body>
+
+    <header>
+        <h1>TecnoHack - Blog</h1>
+    </header>
+
+    <div class="article-container">
+        <h1>{{ page.title }}</h1>
+        <p><em>Publicado el {{ page.date | date: "%d de %B de %Y" }}</em></p>
+        {{ content }}
+    </div>
+
+    <footer>
+        <p>© 2025 TecnoHack. Todos los derechos reservados.</p>
+    </footer>
+
+</body>
+</html>
+s
