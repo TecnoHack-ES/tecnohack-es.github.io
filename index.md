@@ -1,33 +1,25 @@
 ---
-layout: index
-title: "TecnoHack-es"
-subtitle: "Tu portal sobre hacking ético y ciberseguridad"
+layout: home
+title: "Bienvenido a TecnoHack"
 ---
 
-# Bienvenido a TecnoHack-es
+# ¿Qué es la Ciberseguridad?
 
-Bienvenido a **TecnoHack-es**, el sitio dedicado a compartir conocimiento sobre **hacking ético**, **ciberseguridad** y la **protección digital**. Aquí aprenderás todo lo necesario para comenzar a explorar el mundo de la seguridad informática de manera ética y profesional.
+> Comprender los diferentes tipos de ciberseguridad y las principales formas de ciberamenazas.
 
-## ¿Qué ofrecemos?
+[INFORME GLOBAL SOBRE AMENAZAS 2025](#)  
 
-En **TecnoHack-es** nos enfocamos en brindarte recursos útiles para mejorar tus habilidades en el mundo del hacking y la seguridad. Aquí encontrarás:
+[HABLE CON UN EXPERTO](#)
 
-- **Tutoriales detallados** sobre técnicas de hacking ético.
-- **Consejos de ciberseguridad** para proteger tu información.
-- **Últimas noticias** sobre vulnerabilidades y amenazas cibernéticas.
-- **Recursos y herramientas** recomendadas para hackers éticos.
+## Ciberseguridad Definida
+Ciberseguridad es un conjunto de estándares y prácticas que protegen aplicaciones, datos, programas, redes y sistemas de ciberataques y accesos no autorizados.
 
-## ¿Quién está detrás de TecnoHack-es?
+### Recursos de ciberseguridad
+- [Tipos de ciberataques: DDoS, ransomware y más](#)
+- [Ciberseguridad en TI vs. OT](#)
+- [Ciberseguridad en IA](#)
+- [Inteligencia de amenazas](#)
+- [Administración de ciberseguridad](#)
+- [Seguridad de redes](#)
 
-Somos un grupo de apasionados de la tecnología con experiencia en **ciberseguridad** y **hacking ético**. Nuestro objetivo es educar y ayudar a las personas a mejorar sus habilidades para protegerse en un mundo digital cada vez más vulnerable.
-
-## Únete a la comunidad
-
-Si te apasiona la tecnología y la ciberseguridad, ¡estás en el lugar correcto! Únete a nuestra comunidad para recibir contenido exclusivo y mantenerse actualizado sobre las últimas tendencias de seguridad.
-
-**¡No te pierdas nuestros próximos artículos y tutoriales!**
-
-[Suscríbete a nuestro boletín](#) para estar al tanto de todas nuestras novedades y contenidos exclusivos.
-
----
 
