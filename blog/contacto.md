@@ -1,7 +1,7 @@
 ---
 layout: contacto
 title: "Contacto"
-permalink: /contacto/
+permalink: contacto/
 ---
 # Contacto
 

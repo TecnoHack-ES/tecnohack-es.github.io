@@ -1,23 +1,38 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>{{ page.title }}</title>
-  <link rel="stylesheet" href="assets/css/styles.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ page.title }}</title>
+    <link rel="stylesheet" href="assets/css/home.css">
 </head>
 <body>
-  <header>
-    <h1>{{ site.title }}</h1>
-    <p>{{ site.description }}</p>
-  </header>
-  
-  <main>
-    {{ content }}  <!-- Esto es donde se inyecta el contenido de tus páginas -->
-  </main>
-  
-  <footer>
-    <p>&copy; {{ site.time | date: "%Y" }} - TecnoHack-es</p>
-  </footer>
-</body>
-</html>
+
+    <header>
+        <div class="container">
+            <h1>TecnoHack</h1>
+            <nav>
+                <ul>
+                    <li><a href="/">Inicio</a></li>
+                    <li><a href="sobre-nosotros/">Sobre Nosotros</a></li>
+                    <li><a href="/contacto/">Contacto</a></li>
+                    <li><a href="rss/">RSS</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <main class="hero">
+        <h2>¿Qué es la Ciberseguridad?</h2>
+        <p>Comprender los diferentes tipos de ciberseguridad y las principales formas de ciberamenazas.</p>
+        <a href="#" class="btn">Informe Global de Amenazas</a>
+        <a href="#" class="btn btn-secondary">Hable con un Experto</a>
+    </main>
+
+    <section class="content">
+        {{ content }}
+    </section>
+
+    <footer>
+        <p>© 2025 TecnoHack. Todos los derechos reservados.</p>
+    </footer>
