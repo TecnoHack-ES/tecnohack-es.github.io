@@ -2,6 +2,7 @@
 layout: articulos
 title: "Mi Primer Artículo"
 date: 2025-03-17
+permalink: /sobre-nosotros/
 ---
 
 # Bienvenidos a TecnoHack
