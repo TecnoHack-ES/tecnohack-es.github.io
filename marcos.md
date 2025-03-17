@@ -1,5 +1,5 @@
 ---
-layout: contacto
+layout: contact
 title: "Contacto - Marcos"
 name: "Marcos González"
 role: "Fundador de TecnoHack"
