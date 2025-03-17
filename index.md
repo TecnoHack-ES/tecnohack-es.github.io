@@ -9,7 +9,7 @@ title: "Bienvenido a TecnoHack"
 
 [INFORME GLOBAL SOBRE AMENAZAS 2025](#)  
 
-[HABLE CON UN EXPERTO](#)
+[Sobre Nosotros](/sobre-nosotros/)
 
 ## Ciberseguridad Definida
 Ciberseguridad es un conjunto de estándares y prácticas que protegen aplicaciones, datos, programas, redes y sistemas de ciberataques y accesos no autorizados.
