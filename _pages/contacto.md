@@ -7,5 +7,5 @@ permalink: /contacto/
 
 Aquí puedes ver nuestra información de contacto.
 
-- [Marcos González](/marcos/)
+- [Marcos González](/contacto/marcos/)
 
