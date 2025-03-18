@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "TecnoHack"
+description: "Bienvenidos a TecnoHack, tu blog de referencia sobre ciberseguridad y avances tecnológicos. Descubre noticias, guías y análisis para estar al día en el mundo digital."
 ---
 ## [¿Qúe es la tecnología?](/que-es-la-tecnologia/)
 
