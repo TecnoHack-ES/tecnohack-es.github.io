@@ -10,18 +10,6 @@ body, html {
     flex-direction: column;
 }
 
-/* Estilos para el header */
-header {
-    background-color: #ff3333;
-    padding: 20px;
-    text-align: center;
-}
-
-header h1 {
-    margin: 0;
-    font-size: 2.5em;
-    color: #fff;
-}
 
 /* Estilos para el main (contenido principal) */
 main {
