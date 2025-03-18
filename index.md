@@ -1,11 +1,11 @@
 ---
 layout: default
-title: "Bienvenido a TecnoHack"
+title: "TecnoHack"
 ---
 
 # ¿Qué es la Ciberseguridad?
 
-> Comprender los diferentes tipos de ciberseguridad y las principales formas de ciberamenazas.
+> La ciberseguridad es la práctica de proteger sistemas, redes, programas, dispositivos y datos de accesos no autorizados, ataques, daños o robos. Su objetivo principal es garantizar la confidencialidad, integridad y disponibilidad de la información, así como proteger la privacidad de los usuarios y la continuidad de las operaciones en entornos digitales.
 
 [INFORME GLOBAL SOBRE AMENAZAS 2025](#)  
 
