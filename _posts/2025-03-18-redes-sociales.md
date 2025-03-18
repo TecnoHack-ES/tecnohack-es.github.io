@@ -1,30 +1,31 @@
 ---
 layout: articulos
 title: "Redes Sociales"
-date: 2025-03-18
+date: 2025-03-17
 permalink: /redes-sociales/
 ---
 
-# Sobre Nosotross
+# Nuestras Redes Sociales
 
-Bienvenidos a **TecnoHack**, tu ventana al mundo de la **ciberseguridad** y los **avances tecnológicos**. Somos más que un blog; somos una **comunidad** de entusiastas, curiosos y expertos que comparten una pasión por entender y explorar el fascinante universo digital.
+En **TecnoHack**, no solo nos limitamos a este blog. ¡También estamos activos en varias plataformas! Cada una de nuestras redes sociales tiene un enfoque único para mantenerte informado, entretenido y conectado con la comunidad. Aquí te contamos qué puedes esperar en cada una:
 
-## ¿Quiénes somos?
-En TecnoHack, creemos que la tecnología y la ciberseguridad no son solo temas para expertos. Queremos hacerlos accesibles para todos, desde el curioso que recién comienza hasta el profesional que busca estar al día. Nuestro equipo está formado por apasionados de la tecnología, la seguridad informática y la divulgación, unidos por el objetivo de informar, educar y crear un espacio de diálogo.
+## TikTok
+**Enlace**: [TecnoHack en TikTok](https://www.tiktok.com/@TecnoHack)  
+En TikTok encontrarás **shorts de actualidad** sobre ciberseguridad y tecnología. Publicamos contenido rápido, dinámico y entretenido, perfecto para consumir en pocos segundos. ¡Ideal para estar al día sin perderte de nada!
 
-## Nuestra misión
-En un mundo donde la tecnología avanza a pasos agigantados y las amenazas cibernéticas son cada vez más sofisticadas, nuestra misión es clara:
-- **Informar**: Mantenerte al tanto de las últimas noticias, tendencias y avances en ciberseguridad y tecnología.
-- **Educar**: Ofrecer contenido claro y accesible para que todos puedan entender los conceptos clave.
-- **Conectar**: Crear una comunidad donde puedas compartir ideas, hacer preguntas y aprender junto a otros.
+## Reddit
+**Enlace**: [TecnoHack en Reddit](https://www.reddit.com/r/TecnoHack)  
+Reddit es nuestro espacio para el **debate libre**. Aquí podrás unirte a discusiones con otros miembros de la comunidad, compartir tus ideas, hacer preguntas y resolver dudas. ¡Es el lugar perfecto para aprender y colaborar!
 
-## ¿Qué encontrarás en TecnoHack?
-- **Noticias de actualidad**: Lo último en ciberataques, vulnerabilidades y soluciones.
-- **Artículos divulgativos**: Explicaciones sencillas y curiosas sobre temas complejos.
-- **Guías prácticas**: Consejos y herramientas para protegerte en línea.
-- **Comunidad**: Un espacio para debatir, colaborar y crecer juntos.
+## Twitter
+**Enlace**: [TecnoHack en Twitter](https://twitter.com/TecnoHack)  
+En Twitter publicamos **noticias breves y actualizadas** sobre ciberseguridad, avances tecnológicos y mucho más. Es la plataforma ideal para estar al tanto de las últimas novedades en tiempo real.
 
-## Únete a la comunidad
-TecnoHack no sería nada sin ti. Queremos que formes parte de esta comunidad, que compartas tus ideas, preguntas y experiencias. Juntos, podemos construir un entorno digital más seguro y consciente.
+---
 
-¡Gracias por ser parte de TecnoHack!
+## ¿Por qué seguirnos en redes?
+- **Contenido exclusivo**: Cada plataforma tiene su propio estilo y enfoque.
+- **Comunidad activa**: Conéctate con otros apasionados de la tecnología.
+- **Información al instante**: Mantente actualizado con noticias y tendencias.
+
+¡Síguenos en nuestras redes y sé parte de la comunidad TecnoHack!
