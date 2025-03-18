@@ -10,15 +10,15 @@ permalink: /redes-sociales/
 En **TecnoHack**, no solo nos limitamos a este blog. ¡También estamos activos en varias plataformas! Cada una de nuestras redes sociales tiene un enfoque único para mantenerte informado, entretenido y conectado con la comunidad. Aquí te contamos qué puedes esperar en cada una:
 
 ## TikTok
-**Enlace**: [TecnoHack en TikTok](https://www.tiktok.com/@TecnoHack)  
+**Enlace**: [TecnoHack en TikTok](https://www.tiktok.com/@tecnohackes?_t=ZN-8umnrGnoibS&_r=1)  
 En TikTok encontrarás **shorts de actualidad** sobre ciberseguridad y tecnología. Publicamos contenido rápido, dinámico y entretenido, perfecto para consumir en pocos segundos. ¡Ideal para estar al día sin perderte de nada!
 
 ## Reddit
-**Enlace**: [TecnoHack en Reddit](https://www.reddit.com/r/TecnoHack)  
+**Enlace**: [TecnoHack en Reddit](https://www.reddit.com/r/TecnoHack_/s/Ae3Q18zt4y)  
 Reddit es nuestro espacio para el **debate libre**. Aquí podrás unirte a discusiones con otros miembros de la comunidad, compartir tus ideas, hacer preguntas y resolver dudas. ¡Es el lugar perfecto para aprender y colaborar!
 
 ## Twitter
-**Enlace**: [TecnoHack en Twitter](https://twitter.com/TecnoHack)  
+**Enlace**: [TecnoHack en Twitter](https://x.com/tecnohack_es?s=21)  
 En Twitter publicamos **noticias breves y actualizadas** sobre ciberseguridad, avances tecnológicos y mucho más. Es la plataforma ideal para estar al tanto de las últimas novedades en tiempo real.
 
 ---
