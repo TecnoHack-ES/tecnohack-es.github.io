@@ -10,8 +10,8 @@ title: "TecnoHack"
 
 > La **ciberseguridad** es la práctica de **proteger sistemas**, **redes**, **programas**, **dispositivos** y **datos de accesos no autorizados**, **ataques**, **daños** o **robos**. Su objetivo principal es garantizar la confidencialidad, integridad y disponibilidad de la información, así como proteger la privacidad de los usuarios y la continuidad de las operaciones en entornos digitales.
 
-### Recursos de ciberseguridad
-- [Ciberseguridad en IA](#)
-
 ### Recursos de nuevas tecnologías
-- [Nuevas tecnologías](#)
+- [¿Qué es la tecnología?](/que-es-la-tecnologia/)
+
+### Recursos de ciberseguridad
+- [¿Qué es la ciberseguridad?](/que-es-la-ciberseguridad/)
