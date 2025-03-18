@@ -33,5 +33,3 @@ La ciberseguridad es fundamental porque:
 
 ## Conclusión
 La **ciberseguridad** no es solo un conjunto de herramientas; es una **estrategia esencial** para proteger nuestro mundo digital. En **TecnoHack**, exploramos cómo la tecnología y la ciberseguridad trabajan juntas para construir un entorno más seguro y confiable.
-
-![Ciberseguridad](https://via.placeholder.com/800x400)
