@@ -32,8 +32,8 @@ theme: minima
 styles:
   - "assets/css/styles.css"
 
-paginate: 5          # Número de posts por página
-paginate_path: "/noticias/page:num/"  # Ruta para las páginas (por ejemplo, /noticias/page2/)
+paginate: 5
+paginate_path: "/noticias/page:num/"
 plugins:
   - jekyll-feed
   - jekyll-sitemap
