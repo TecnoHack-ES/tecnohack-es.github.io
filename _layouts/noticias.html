@@ -32,6 +32,16 @@
         {% endfor %}
       </section>
 
+      <div class="paginacion">
+        {% if paginator.previous_page %}
+          <a href="{{ paginator.previous_page_path }}" class="anterior">Anterior</a>
+        {% endif %}
+        <span class="pagina-actual">Página {{ paginator.page }} de {{ paginator.total_pages }}</span>
+        {% if paginator.next_page %}
+          <a href="{{ paginator.next_page_path }}" class="siguiente">Siguiente</a>
+        {% endif %}
+      </div>
+
   <footer>
     <p>© 2025 TecnoHack. Todos los derechos reservados.</p>
   </footer>

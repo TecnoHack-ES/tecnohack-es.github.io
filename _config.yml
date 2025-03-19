@@ -31,9 +31,13 @@ github_username:  jekyll
 theme: minima
 styles:
   - "assets/css/styles.css"
+
+paginate: 5          # Número de posts por página
+paginate_path: "/noticias/page:num/"  # Ruta para las páginas (por ejemplo, /noticias/page2/)
 plugins:
   - jekyll-feed
   - jekyll-sitemap
+  - jekyll-paginate
 
 include:
   - _pages

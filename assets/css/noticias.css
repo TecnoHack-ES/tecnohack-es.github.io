@@ -75,3 +75,27 @@ body {
     color: white;
     margin-top: 2rem;
   }
+
+  /* Estilos para la paginación */
+.paginacion {
+    text-align: center;
+    margin: 2rem 0;
+  }
+  
+  .paginacion a {
+    margin: 0 0.5rem;
+    padding: 0.5rem 1rem;
+    background-color: #007bff;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+  }
+  
+  .paginacion a:hover {
+    background-color: #0056b3;
+  }
+  
+  .pagina-actual {
+    font-weight: bold;
+    margin: 0 1rem;
+  }
