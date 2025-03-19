@@ -18,11 +18,13 @@
     {% for post in site.posts %}
       {% if post.categories contains "noticias" %}
         <li data-fecha="{{ post.date | date: '%Y%m%d' }}" data-vistas="{{ post.visitas | default: 0 }}">
-          <a href="{{ post.url }}">{{ post.title }}</a> - {{ post.date | date: "%d/%m/%Y" }} - {{ post.visitas | default: 0 }} vistas
+          <a href="{{ post.permalink }}">{{ post.title }}</a> - 
+          {{ post.date | date: "%d/%m/%Y" }} - {{ post.visitas | default: 0 }} vistas
         </li>
       {% endif %}
     {% endfor %}
-  </ul>
+</ul>
+
   
   <script>
     document.getElementById('sort').addEventListener('change', function() {
