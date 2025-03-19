@@ -1,12 +1,9 @@
 ---
-layout: noticias
+layout: post
 title: "Nuevas Tendencias en Ciberseguridad para 2025"
 date: 2025-03-20
-categories: [noticias]  # Usa "noticias" como categoría
-tags: [noticias]       # O usa "noticias" como etiqueta
-tags: [ciberseguridad, tendencias]
-mostrar_en_noticias: true
-description: "Descubre las nuevas tendencias en ciberseguridad para 2025 y cómo proteger tu negocio de las amenazas digitales."
+categories: [noticias]
+description: "Descubre las nuevas tendencias en ciberseguridad para 2025."
 ---
 
 ¡Bienvenidos a TecnoHack!

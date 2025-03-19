@@ -3,25 +3,16 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ page.title }}</title>
   <meta name="description" content="{{ page.description }}">
-  <title>{{ page.title }} - TecnoHack</title>
   <link rel="stylesheet" href="{{ site.baseurl }}../assets/css/noticias.css">
 </head>
 <body>
   <header>
-    <h1>Noticias de TecnoHack</h1>
-    <nav>
-      <a href="{{ '/' | relative_url }}">Inicio</a>
-    </nav>
+    <h1>{{ page.title }}</h1>
   </header>
 
-  <section id="noticiero">
-    <div class="filtros">
-      <button onclick="filtrarNoticias('recientes')">Más Recientes</button>
-      <button onclick="filtrarNoticias('antiguas')">Más Antiguas</button>
-      <button onclick="filtrarNoticias('vistas')">Más Vistas</button>
-    </div>
-
+  <main>
     <section id="noticias">
       {% for post in site.categories.noticias %}
         <article class="noticia">
@@ -31,16 +22,7 @@
         </article>
       {% endfor %}
     </section>
-
-      <div class="paginacion">
-        {% if paginator.previous_page %}
-          <a href="{{ paginator.previous_page_path }}" class="anterior">Anterior</a>
-        {% endif %}
-        <span class="pagina-actual">Página {{ paginator.page }} de {{ paginator.total_pages }}</span>
-        {% if paginator.next_page %}
-          <a href="{{ paginator.next_page_path }}" class="siguiente">Siguiente</a>
-        {% endif %}
-      </div>
+  </main>
 
   <footer>
     <p>© 2025 TecnoHack. Todos los derechos reservados.</p>
