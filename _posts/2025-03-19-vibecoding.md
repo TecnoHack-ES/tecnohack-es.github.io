@@ -2,7 +2,6 @@
 layout: articulos
 title: "VibeCoding: ¿Revolución o Riesgo en el Desarrollo de Software?"
 date: 2025-03-21
-categories: [tecnologia, programacion]
 permalink: /VibeCoding/
 description: "Descubre qué es el VibeCoding, cómo está transformando el desarrollo de software y los debates que genera en la comunidad tecnológica. En TecnoHack-es, exploramos sus ventajas, desventajas y su impacto en el futuro de la programación."
 ---
