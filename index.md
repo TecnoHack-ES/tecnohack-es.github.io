@@ -13,7 +13,7 @@ description: "Bienvenidos a TecnoHack, tu blog de referencia sobre cibersegurida
 
 ### Recursos de nuevas tecnologías
 - [¿Qué es la tecnología?](/que-es-la-tecnologia/)
-- [VibeCoding: ¿Revolución o Riesgo en el Desarrollo de Software?](/VibeCoding/)
+- [VibeCoding: ¿Revolución o Riesgo en el Desarrollo de Software?](/el-vibecoding/)
 
 ### Recursos de ciberseguridad
 - [¿Qué es la ciberseguridad?](/que-es-la-ciberseguridad/)
