@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: noticias
 title: "Nuevas Tendencias en Ciberseguridad para 2025"
 date: 2025-03-20
 categories: [noticias]
