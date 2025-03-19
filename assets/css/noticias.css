@@ -1,101 +1,115 @@
-/* Estilos generales */
+/* Estilos base */
 body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #f4f4f4;
-    color: #333;
-  }
-  
-  header {
-    background-color: #007bff;
-    color: white;
-    padding: 1rem;
+    background-color: #121212;
+    color: #fff;
+}
+
+/* Header */
+header {
+    background: #000;
+    padding: 15px 0;
     text-align: center;
-  }
-  
-  main {
-    padding: 1rem;
-  }
-  
-  /* Filtros */
-  #filtros {
-    margin-bottom: 1rem;
+}
+
+header h1 {
+    color: #ff3333;
+}
+
+/* Navegación */
+nav ul {
+    list-style: none;
+    padding: 0;
     text-align: center;
-  }
-  
-  #filtros button {
-    margin: 0 0.5rem;
-    padding: 0.5rem 1rem;
-    background-color: #007bff;
-    color: white;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+/* Sección de noticias */
+.noticias-container {
+    max-width: 900px;
+    margin: 40px auto;
+    padding: 20px;
+    background: #1a1a1a;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(255, 51, 51, 0.3);
+}
+
+/* Título de la sección */
+.noticias-container h1 {
+    text-align: center;
+    font-size: 2.2em;
+    color: #ff3333;
+    margin-bottom: 20px;
+}
+
+/* Filtro de ordenación */
+.noticias-filter {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.noticias-filter label {
+    font-size: 1.2em;
+    margin-right: 10px;
+}
+
+.noticias-filter select {
+    padding: 8px;
     border: none;
     border-radius: 5px;
-    cursor: pointer;
-  }
-  
-  #filtros button:hover {
-    background-color: #0056b3;
-  }
-  
-  /* Noticias */
-  #noticias {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-    gap: 1rem;
-  }
-  
-  .noticia {
-    background-color: white;
-    border: 1px solid #ddd;
-    border-radius: 5px;
-    padding: 1rem;
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-  }
-  
-  .noticia h2 {
-    margin-top: 0;
-  }
-  
-  .noticia .fecha {
-    color: #777;
-    font-size: 0.9rem;
-  }
-  
-  .noticia .resumen {
-    font-size: 0.9rem;
-    line-height: 1.4;
-  }
-  
-  /* Footer */
-  footer {
-    text-align: center;
-    padding: 1rem;
-    background-color: #333;
-    color: white;
-    margin-top: 2rem;
-  }
+    background: #333;
+    color: #fff;
+    font-size: 1em;
+}
 
-  /* Estilos para la paginación */
-.paginacion {
-    text-align: center;
-    margin: 2rem 0;
-  }
-  
-  .paginacion a {
-    margin: 0 0.5rem;
-    padding: 0.5rem 1rem;
-    background-color: #007bff;
-    color: white;
-    text-decoration: none;
+/* Lista de noticias */
+.noticias-list {
+    list-style: none;
+    padding: 0;
+}
+
+.noticias-list li {
+    background: #222;
+    padding: 15px;
+    margin: 10px 0;
     border-radius: 5px;
-  }
-  
-  .paginacion a:hover {
-    background-color: #0056b3;
-  }
-  
-  .pagina-actual {
+    transition: background 0.3s ease;
+}
+
+.noticias-list li:hover {
+    background: #333;
+}
+
+.noticias-list a {
+    color: #ff3333;
+    font-size: 1.2em;
     font-weight: bold;
-    margin: 0 1rem;
-  }
+    text-decoration: none;
+}
+
+.noticias-list a:hover {
+    text-decoration: underline;
+}
+
+.noticias-meta {
+    font-size: 0.9em;
+    color: #bbb;
+}
+
+/* Footer */
+footer {
+    text-align: center;
+    padding: 20px;
+    background: #000;
+}
