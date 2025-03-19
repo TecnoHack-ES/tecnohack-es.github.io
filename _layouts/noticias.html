@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ page.title }} - TecnoHack</title>
+  <link rel="stylesheet" href="{{ site.baseurl }}../assets/css/noticias.css">
+</head>
+<body>
+  <header>
+    <h1>Noticias de TecnoHack</h1>
+    <nav>
+      <a href="{{ '/' | relative_url }}">Inicio</a>
+    </nav>
+  </header>
+
+  <section id="noticiero">
+    <div class="filtros">
+      <button onclick="filtrarNoticias('recientes')">Más Recientes</button>
+      <button onclick="filtrarNoticias('antiguas')">Más Antiguas</button>
+      <button onclick="filtrarNoticias('vistas')">Más Vistas</button>
+    </div>
+
+    <div class="noticias">
+      {% for post in site.posts %}
+        <article class="noticia" data-fecha="{{ post.date | date: '%Y-%m-%d' }}" data-vistas="0">
+          <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
+          <p class="fecha">{{ post.date | date: "%d/%m/%Y" }}</p>
+          <p class="resumen">{{ post.excerpt | truncate: 160 }}</p>
+        </article>
+      {% endfor %}
+    </div>
+  </section>
+
+  <footer>
+    <p>© 2025 TecnoHack. Todos los derechos reservados.</p>
+  </footer>
+
+  <script src="{{ site.baseurl }}../assets/css/noticias.js"></script>
+</body>
+</html>
