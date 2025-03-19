@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: noticias
 title: "Nuevas Tendencias en Ciberseguridad para 2025"
 date: 2025-03-20
 categories: [noticias]
@@ -16,4 +16,4 @@ La IA está revolucionando la forma en que detectamos y prevenimos ciberataques.
 ## 2. Protección de Datos
 Con el aumento de las regulaciones, como el RGPD, las empresas deben asegurarse de que sus datos estén protegidos y cumplan con las normativas.
 
-¡No te pierdas más detalles en nuestro blog!
+¡No te pierdas más detalles en nuestro blog!w
