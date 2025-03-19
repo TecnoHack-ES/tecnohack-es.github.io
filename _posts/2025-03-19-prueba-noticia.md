@@ -2,6 +2,8 @@
 layout: noticias
 title: "Últimas Noticias - TecnoHack"
 permalink: /noticias/
+categories: [noticias]
+description: "Descubre qué es la tecnología, su impacto en la sociedad y cómo ha transformado el mundo. Explora ejemplos, características y su importancia en la vida cotidiana."
 ---
 # ¿Qué es la Tecnología?
 
