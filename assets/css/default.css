@@ -72,3 +72,17 @@ footer {
     padding: 20px;
     background: #000;
 }
+
+.social-links a {
+    display: inline-flex; /* Usar flexbox para alinear icono y texto */
+    align-items: center; /* Centrar verticalmente */
+    gap: 8px; /* Espacio entre el icono y el texto */
+    text-decoration: none; /* Quitar subrayado */
+    color: inherit; /* Heredar el color del texto */
+  }
+  
+  .social-links svg {
+    width: 24px; /* Tamaño fijo para los iconos */
+    height: 24px; /* Mantener la proporción */
+    fill: currentColor; /* Heredar el color del texto */
+  }
