@@ -1,0 +1,25 @@
+name: Set Cache Headers
+on:
+  push:
+    branches:
+      - main  # Cambia a la rama que uses (main o master)
+jobs:
+  set-cache-headers:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Set Cache Headers
+        run: |
+          echo "/*.css cache-control: public, max-age=31536000" > _headers
+          echo "/*.js cache-control: public, max-age=31536000" >> _headers
+          echo "/*.jpg cache-control: public, max-age=31536000" >> _headers
+          echo "/*.png cache-control: public, max-age=31536000" >> _headers
+          echo "/*.svg cache-control: public, max-age=31536000" >> _headers
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./_site
