@@ -11,38 +11,13 @@
 </head>
 <body>
 
-    <header>
-        <div class="container">
-            <h1>TecnoHack</h1>
-            <nav>
-                <ul>
-                    <li><a href="/">Inicio</a></li>
-                    <li><a href="/sobre-nosotros/">Sobre Nosotros</a></li>
-                    <li><a href="/noticias/">Noticias</a></li>
-                    <li><a href="/redes-sociales/">RSS</a></li>
-                </ul>
-            </nav>
-        </div>
-    </header>
+    {% include header.html %}
 
     <article>
         {{ content }}
     </article>
 
-    <footer>
-        <p>© 2025 TecnoHack. Todos los derechos reservados.</p>
-        <div class="social-links">
-            <a href="https://www.tiktok.com/@tecnohackes?_t=ZN-8umnrGnoibS&_r=1" target="_blank" rel="noopener noreferrer">
-                <i class="fab fa-tiktok"></i> TikTok
-            </a>
-            <a href="https://www.reddit.com/r/TecnoHack_/s/Ae3Q18zt4y" target="_blank" rel="noopener noreferrer">
-                <i class="fab fa-reddit"></i> Reddit
-            </a>
-            <a href="https://x.com/tecnohack_es?s=21" target="_blank" rel="noopener noreferrer">
-                <i class="fab fa-twitter"></i> Twitter
-            </a>
-        </div>
-    </footer>
+    {% include footer.html %}
 
 </body>
 </html>
