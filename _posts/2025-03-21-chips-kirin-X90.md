@@ -7,6 +7,8 @@ permalink: /huawei-kirin-x90-7nm-smic/
 description: "Huawei avanza en la fabricación de chips Kirin X90 para PC usando tecnología de 7 nm de SMIC, desafiando las limitaciones tecnológicas de China. Descubre cómo impacta esto en la industria global de semiconductores."
 ---
 
+# Huawei fabrica chips Kirin X90 para PC con tecnología de 7 nm de SMIC
+
 En un movimiento audaz, Huawei ha anunciado que fabricará su nuevo chip Kirin X90 para PC utilizando tecnología de 7 nanómetros (nm) de SMIC (Semiconductor Manufacturing International Corporation). Este avance es significativo, dado el contexto de las restricciones tecnológicas que enfrenta China en la industria de los semiconductores.
 
 ### El desafío de China en la fabricación de chips
