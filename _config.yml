@@ -37,7 +37,6 @@ paginate_path: "/noticias/page:num/"
 plugins:
   - jekyll-feed
   - jekyll-sitemap
-  - jekyll-paginate
 
 include:
   - _pages
