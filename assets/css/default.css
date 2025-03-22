@@ -86,3 +86,9 @@ footer {
     height: 24px; /* Mantener la proporción */
     fill: currentColor; /* Heredar el color del texto */
   }
+
+  a {
+    font-size: 20px; /* Ajusta el tamaño según sea necesario */
+    padding: 3px 9px;
+    color: #ff3333;
+}
