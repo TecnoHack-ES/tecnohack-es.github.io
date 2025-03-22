@@ -4,6 +4,7 @@ title: "El Primer Ciberataque de la Historia: El Telégrafo Óptico y el Hackeo 
 date: 2025-03-22
 permalink: /primer-ciberataque-historia-telegrafo-optico/
 description: "Descubre cómo el primer ciberataque de la historia tuvo lugar en 1834 en Francia, utilizando el telégrafo óptico de Claude Chappe. En TecnoHack-es, exploramos este fascinante evento que marcó el inicio de la ciberseguridad."
+categories: articulo
 ---
 
 # El Primer Ciberataque de la Historia: El Telégrafo Óptico y el Hackeo de 1834

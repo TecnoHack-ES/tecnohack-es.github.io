@@ -4,6 +4,7 @@ title: "¿Qué es la Ciberseguridad?"
 date: 2025-03-17
 permalink: /que-es-la-ciberseguridad/
 description: "Aprende qué es la ciberseguridad, por qué es esencial en el mundo digital y cómo protege tus datos y sistemas de ciberataques. Todo lo que necesitas saber en un solo lugar."
+categories: articulo
 ---
 
 # ¿Qué es la Ciberseguridad?

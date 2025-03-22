@@ -4,6 +4,7 @@ title: "¿Qué es la Tecnología?"
 date: 2025-03-17
 permalink: /que-es-la-tecnologia/
 description: "Descubre qué es la tecnología, su impacto en la sociedad y cómo ha transformado el mundo. Explora ejemplos, características y su importancia en la vida cotidiana."
+categories: articulo
 ---
 
 # ¿Qué es la Tecnología?

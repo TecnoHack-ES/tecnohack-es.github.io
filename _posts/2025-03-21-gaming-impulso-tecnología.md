@@ -4,6 +4,7 @@ title: "¿Por qué el Gaming Impulsa Avances Tecnológicos?"
 date: 2025-03-21
 permalink: /gaming-impulsa-avances-tecnologicos/
 description: "Descubre cómo los videojuegos han revolucionado la tecnología, desde gráficos avanzados hasta inteligencia artificial. En TecnoHack-es, exploramos el impacto del gaming en la innovación tecnológica."
+categories: articulo
 ---
 
 # ¿Por qué el Gaming Impulsa Avances Tecnológicos?

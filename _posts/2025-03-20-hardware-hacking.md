@@ -4,6 +4,7 @@ title: "Hardware Hacking: Descubre el Mundo del Análisis de Firmware y Segurida
 date: 2025-03-20
 permalink: /hardware-hacking/
 description: "En TecnoHack-es, exploramos el fascinante mundo del hardware hacking, desde el análisis de firmware hasta su impacto en la seguridad de sistemas industriales. Descubre sus técnicas, riesgos y aplicaciones."
+categories: articulo
 ---
 
 # Hardware Hacking: Descubre el Mundo del Análisis de Firmware y Seguridad
