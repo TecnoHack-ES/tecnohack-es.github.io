@@ -92,3 +92,11 @@ header {
     padding: 15px 0;
     text-align: center;
 }
+
+
+header a {
+    font-size: inherit; /* Hereda el tamaño de fuente del contexto */
+    padding: 0; /* Elimina el padding adicional */
+    color: #fff; /* Color específico para enlaces en el header */
+    text-decoration: none; /* Mantén el subrayado eliminado */
+}
