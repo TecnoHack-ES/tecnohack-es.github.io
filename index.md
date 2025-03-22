@@ -19,3 +19,4 @@ description: "Bienvenidos a TecnoHack, tu blog de referencia sobre cibersegurida
 ### Recursos de ciberseguridad
 - [¿Qué es la ciberseguridad?](/que-es-la-ciberseguridad/)
 - [Hablemos de HardwareHacking](/hardware-hacking/)
+- [El Primer Ciberataque de la Historia](/primer-ciberataque-historia-telegrafo-optico/)
