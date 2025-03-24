@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="{{ page.description }}">
+    <title>{{ page.title }}</title>
+    <link rel="stylesheet" href="{{ site.baseurl }}../../assets/css/default.css">
+    <link rel="stylesheet" href="{{ site.baseurl }}../assets/css/noticias.css">
+    {% seo %}
+</head>
+<body>
+
+    {% include header.html %}
+
+    <label for="sort">Ordenar por:</label>
+    <select id="sort">
+        <option value="fecha">Últimos Subidos</option>
+        <option value="titulo">Orden Alfabético</option>
+    </select>
+    
+    <div id="news-list">
+        {% assign posts_filtrados = site.posts | where: "tags", "gaming" %}
+        
+        {% for post in posts_filtrados %}
+            <div class="news-item" data-fecha="{{ post.date | date: '%Y%m%d' }}" data-titulo="{{ post.title }}">
+                {% if post.image %}
+                <img src="{{ post.image }}" alt="{{ post.title }}" class="news-image">
+                {% endif %}
+                <div class="news-content">
+                    <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+                    <p>{{ post.description }}</p>
+                    <p class="news-date">{{ post.date | date: "%d/%m/%Y" }}</p>
+                </div>
+            </div>
+        {% else %}
+            <p class="no-results">No hay contenido con el tag 'ciberseguridad' actualmente.</p>
+        {% endfor %}
+    </div>
+    
+    <script>
+        document.getElementById('sort').addEventListener('change', function() {
+            let list = document.getElementById('news-list');
+            let items = Array.from(list.getElementsByClassName('news-item'));
+            let sortBy = this.value;
+    
+            items.sort((a, b) => {
+                if (sortBy === 'fecha') {
+                    return parseInt(b.dataset.fecha) - parseInt(a.dataset.fecha);
+                } else if (sortBy === 'titulo') {
+                    return a.dataset.titulo.localeCompare(b.dataset.titulo);
+                }
+                return 0;
+            });
+    
+            list.innerHTML = '';
+            items.forEach(item => list.appendChild(item));
+        });
+    </script>
+
+    {% include footer.html %}
+</body>
+</html>
