@@ -6,6 +6,7 @@ permalink: /evolucion-de-los-ordenadores/
 description: "Explora la fascinante historia de la evolución de los ordenadores, desde las primeras máquinas hasta la era moderna impulsada por el gaming y la inteligencia artificial. Descubre cómo la tecnología ha transformado el mundo."
 categories: articulo
 keywords: evolución de los ordenadores, historia de los ordenadores, avances tecnológicos, gaming y tecnología, inteligencia artificial, computadoras modernas
+subcategories: tecnologia
 ---
 
 # La Evolución de los Ordenadores: Desde los Primeros Computadores hasta la Era del Gaming y la Inteligencia Artificial

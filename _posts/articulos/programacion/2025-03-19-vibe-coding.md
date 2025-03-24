@@ -5,6 +5,7 @@ date: 2025-03-19
 permalink: /que-es-el-vibecoding/
 description: "Descubre qué es el VibeCoding, cómo está transformando el desarrollo de software y los debates que genera en la comunidad tecnológica. En TecnoHack-es, exploramos sus ventajas, desventajas y su impacto en el futuro de la programación."
 categories: articulo
+subcategories: programacion
 ---
 
 # VibeCoding: ¿Revolución o Riesgo en el Desarrollo de Software?

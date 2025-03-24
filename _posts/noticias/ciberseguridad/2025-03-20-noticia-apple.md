@@ -5,6 +5,7 @@ categories: noticias
 date: 2025-03-20
 permalink: /vulnerabilidad-contrasenas-apple/
 description: "Una falla en el sistema de contraseñas de Apple dejó expuestos los datos de millones de usuarios de iPhone. En TecnoHack-es, te explicamos qué ocurrió, cómo te afecta y cómo protegerte."
+subcategories: ciberseguridad
 ---
 
 # Vulnerabilidad en el Sistema de Contraseñas de Apple: ¿Estaban tus Datos en Riesgo?
