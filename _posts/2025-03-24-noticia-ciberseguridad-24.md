@@ -42,6 +42,6 @@ Esta es la **vigésimo quinta filtración** en operaciones de spyware desde 2017
 2. Cambia todas tus contraseñas y activa la autenticación en dos pasos.  
 3. Denuncia el incidente a autoridades locales de protección de datos.  
 
-Para más información sobre cómo proteger tu privacidad, visita nuestra sección de [ciberseguridad en TecnoHack](/ciberseguridad).  
+Para más información sobre cómo proteger tu privacidad, visita nuestra sección de [ciberseguridad en TecnoHack](/).  
 
 ---
