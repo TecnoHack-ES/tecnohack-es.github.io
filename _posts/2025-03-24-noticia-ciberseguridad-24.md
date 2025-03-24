@@ -6,7 +6,7 @@ permalink: /brecha-datos-spyx-stalkerware/
 description: "Una base de datos de SpyX, software de monitorización usado como stalkerware, expone datos sensibles de 2 millones de usuarios, incluyendo credenciales de iCloud. TechCrunch revela la negligencia en la notificación a las víctimas."
 categories: noticias
 keywords: SpyX, stalkerware, brecha de datos, spyware, ciberseguridad, filtración iCloud, monitorización parental
-subcategories: ciberseguridad
+tags: [ciberseguridad]
 ---
 
 # Filtración masiva en SpyX: 2 millones de usuarios afectados por stalkerware
@@ -42,6 +42,6 @@ Esta es la **vigésimo quinta filtración** en operaciones de spyware desde 2017
 2. Cambia todas tus contraseñas y activa la autenticación en dos pasos.  
 3. Denuncia el incidente a autoridades locales de protección de datos.  
 
-Para más información sobre cómo proteger tu privacidad, visita nuestra sección de [ciberseguridad en TecnoHack](/).  
+Para más información sobre cómo proteger tu privacidad, visita nuestra sección de [ciberseguridad en TecnoHack](/ciberseguridad/).  
 
 ---

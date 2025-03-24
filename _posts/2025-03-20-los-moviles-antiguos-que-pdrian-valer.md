@@ -5,7 +5,7 @@ date: 2025-03-19
 categories: noticias
 permalink: /moviles-antiguos-valiosos/
 description: "Descubre qué móviles antiguos podrían valer miles de euros. Modelos icónicos que los coleccionistas buscan desesperadamente."
-subcategories: moviles
+tags: [ciberseguridad]
 ---
 
 ## ¿Tienes un móvil viejo en casa? Podrías estar sentado sobre una **fortuna**
