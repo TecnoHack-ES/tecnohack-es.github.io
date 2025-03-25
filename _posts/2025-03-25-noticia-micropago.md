@@ -40,4 +40,4 @@ El hashtag **#GamingSinTrampas** se volvió tendencia tras el anuncio, con jugad
 *¿Crees que esta regulación protegerá a los jugadores o ahogará la innovación?* **Déjanos tu opinión en los comentarios.**
 
 🔗 **Más sobre regulación:**
-- [Historia completa de las loot boxes](#)
+- [Historia completa de las loot boxes](/historia-loot-boxes/)
