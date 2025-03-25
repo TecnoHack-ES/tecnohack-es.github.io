@@ -35,7 +35,7 @@ Analistas de TecnoHack prevén que esta regulación afectará especialmente a:
 
 ## Reacciones en Redes
 
-El hashtag **#GamingSinTrampas** se volvió tendencia tras el anuncio, con jugadores compartiendo historias de gastos compulsivos. Desde TecnoHack hemos creado una [guía para denunciar prácticas abusivas](#) que actualizaremos con los nuevos procedimientos.
+El hashtag **#GamingSinTrampas** se volvió tendencia tras el anuncio, con jugadores compartiendo historias de gastos compulsivos.
 
 *¿Crees que esta regulación protegerá a los jugadores o ahogará la innovación?* **Déjanos tu opinión en los comentarios.**
 
