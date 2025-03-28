@@ -4,7 +4,7 @@ title: "5 Tecnologías que Revolucionarán el 2025: El Futuro ya está Aquí"
 date: 2025-03-26  
 permalink: /tecnologias-2025/  
 description: "Desde IA generativa hasta computación cuántica aplicada. En TecnoHack te revelamos las innovaciones tecnológicas que definirán el próximo año y cambiarán tu vida."  
-categories: tecnologia  
+categories: articulo
 tags: [innovación, futuro-tech, tendencias 2025]  
 ---  
 
