@@ -31,7 +31,7 @@ La ciberseguridad en 2025 incluye:
 | **Deepfake Scams** | CEOs falsos que ordenan transferencias millonarias | +300% de casos este año |  
 | **Ataques Cuánticos** | Hackeo de cifrados RSA en segundos | Alerta de la NSA |  
 
-*Dato TecnoHack*: El 70% de las pymes sufrió al menos un ciberataque en 2024 ([fuente](#)).  
+*Dato TecnoHack*: El 70% de las pymes sufrió al menos un ciberataque en 2024.  
 
 ---
 
@@ -51,7 +51,7 @@ La ciberseguridad en 2025 incluye:
 
 ## 💡 ¿Por qué es Más Importante que Nunca?  
 - **Cada 11 segundos** ocurre un ciberataque (2025).  
-- **El 95% de las brechas** se deben a error humano (nuestro [análisis](#) lo confirma).  
+- **El 95% de las brechas** se deben a error humano.  
 - **Multas por GDPR** han superado los €2.000M este año.  
 
 ---
@@ -63,7 +63,7 @@ La ciberseguridad en 2025 incluye:
 Recomendamos:  
 1. Certificaciones básicas (CEH, CompTIA Security+).  
 2. Práctica en laboratorios como Hack The Box.  
-3. Seguir nuestro [blog](#) para guías semanales.  
+3. Seguir nuestro [blog](/) para guías semanales.  
 </details>  
 
 <details>  
