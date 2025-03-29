@@ -34,7 +34,7 @@ Si estás pensando en estudiar programación en España, los **Grados Superiores
 - **CIPFP Cheste (Valencia)** – Especialización en Kotlin  
 - **CESUR (Málaga)** – Doble titulación en AWS  
 
-🔹 **¿Sabías que?** El 78% de los graduados en DAM consiguen empleo en menos de 6 meses ([fuente](#)).  
+🔹 **¿Sabías que?** El 78% de los graduados en DAM consiguen empleo en menos de 6 meses.  
 
 ---
 
