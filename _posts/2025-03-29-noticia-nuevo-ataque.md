@@ -1,6 +1,6 @@
 ---
 layout: noticias  
-title: "🚨 Ciberataque Masivo en España: Grupo RALord hackea Pere Claver Grup y roba 5 GB de datos confidenciales"  
+title: "Ciberataque Masivo en España: Grupo RALord hackea Pere Claver Grup y roba 5 GB de datos confidenciales"  
 date: 2025-03-29 
 permalink: /ciberataque-pere-claver-grup/  
 description: "El grupo hacker RALord afirma haber comprometido los sistemas de Pere Claver Grup, filtrando informes secretos, credenciales y códigos fuente. TecnoHack analiza el impacto y cómo proteger tu empresa."  
