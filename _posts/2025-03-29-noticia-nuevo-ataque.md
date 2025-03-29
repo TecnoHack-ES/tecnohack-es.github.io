@@ -49,7 +49,7 @@ Documentos filtrados (según muestras compartidas en foros oscuros):
 - **Posible escalada**: RALord podría atacar a proveedores vinculados.  
 - **Respuesta legal**: La **Agencia Española de Protección de Datos** ya ha iniciado investigaciones.  
 
-📢 **Mantente actualizado**: Sigue nuestro [canal de Telegram](#) para alertas en tiempo real.  
+📢 **Mantente actualizado**: Sigue nuestro [reddit](https://www.reddit.com/r/TecnoHack_/?share_id=fT3JNSwcDkHskY4kdw2L2&utm_content=1&utm_medium=ios_app&utm_name=ioscss&utm_source=share&utm_term=1) para alertas en tiempo real.  
 
 > ℹ️ **¿Eres cliente/empleado de Pere Claver?** Cambia tus contraseñas y activa verificación en dos pasos YA.  
 
