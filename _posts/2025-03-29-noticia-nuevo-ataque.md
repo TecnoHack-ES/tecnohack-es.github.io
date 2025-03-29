@@ -6,7 +6,7 @@ permalink: /ciberataque-pere-claver-grup/
 description: "El grupo hacker RALord afirma haber comprometido los sistemas de Pere Claver Grup, filtrando informes secretos, credenciales y códigos fuente. TecnoHack analiza el impacto y cómo proteger tu empresa."  
 categories: noticias
 tags: [ciberseguridad]  
-
+---
 # 🔥 Última Hora: Hackeo a Pere Claver Grup expone datos críticos  
 
 **Por el equipo de TecnoHack**  
@@ -52,8 +52,6 @@ Documentos filtrados (según muestras compartidas en foros oscuros):
 📢 **Mantente actualizado**: Sigue nuestro [canal de Telegram](#) para alertas en tiempo real.  
 
 > ℹ️ **¿Eres cliente/empleado de Pere Claver?** Cambia tus contraseñas y activa verificación en dos pasos YA.  
-
----
 
 ### 🔍 **Análisis TecnoHack**  
 Este ataque confirma tres tendencias clave para 2025:  
