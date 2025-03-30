@@ -14,82 +14,68 @@ tags: [programacion, desarrollo web, roadmap]
 
 ## 🔍 Fundamentos Esenciales
 
-<details>
-<summary>📌 1. Internet y Protocolos Básicos</summary>
+### 1. Internet y Protocolos Básicos
+El conocimiento de cómo funciona la web es fundamental:
+- **HTTP/HTTPS**: Protocolos de comunicación web (HTTPS añade cifrado SSL/TLS)
+- **DNS**: Sistema de nombres de dominio que traduce URLs a direcciones IP
+- **Arquitectura cliente-servidor**: Base de toda aplicación web moderna
 
-- **HTTP/HTTPS**: Protocolos que permiten la comunicación entre navegadores y servidores. HTTPS añade cifrado para mayor seguridad.
-- **DNS**: Sistema que traduce nombres de dominio (como google.com) a direcciones IP.
-- **Hosting**: Servicio que almacena tu sitio web en servidores para que sea accesible en internet.
-</details>
-
-<details>
-<summary>🧠 2. Lógica de Programación</summary>
-
-- **Algoritmos**: Pasos lógicos para resolver problemas (ej: ordenar una lista).
-- **Estructuras de datos**: Formas de organizar información (arrays, objetos, árboles).
-- **OOP (Programación Orientada a Objetos)**: Paradigma basado en clases y objetos (ej: Java, C#).
-</details>
+### 2. Lógica de Programación
+Antes de frameworks, domina los conceptos básicos:
+- **Algoritmos**: Secuencias lógicas para resolver problemas
+- **Estructuras de datos**: Arrays, objetos, pilas y colas
+- **Paradigmas**: Programación orientada a objetos vs funcional
 
 ## 💻 Desarrollo Frontend
 
+### 1. El Trío Fundamental
 <details>
-<summary>🛠️ 1. Trío Fundamental</summary>
+<summary>Ver tecnologías base</summary>
 
-- **HTML5**: Esqueleto de la web. Incluye etiquetas semánticas como `<header>`, `<article>`.
-- **CSS3**: Estilos avanzados con Grid, Flexbox y animaciones con `@keyframes`.
-- **JavaScript ES6+**: Versión moderna con arrow functions, async/await y módulos.
+- **HTML5**: Estructura semántica con etiquetas como `<section>`, `<article>`
+- **CSS3**: Estilos avanzados con Flexbox, Grid y animaciones CSS
+- **JavaScript ES6+**: Funciones flecha, promesas, async/await y módulos
 </details>
 
-<details>
-<summary>⚡ 2. Frameworks Modernos</summary>
-
-- **React.js**: Biblioteca de Facebook para interfaces dinámicas usando componentes.
-- **Vue.js**: Framework progresivo con sintaxis intuitiva (directivas como v-if).
-- **Svelte**: Compilador que genera código vanilla JS (sin Virtual DOM).
-</details>
+### 2. Frameworks Modernos
+- **React.js**: Biblioteca de Facebook basada en componentes y estado
+- **Vue.js**: Framework progresivo con excelente curva de aprendizaje
+- **Svelte**: Enfoque innovador que compila a JavaScript vanilla
 
 ## ⚙️ Desarrollo Backend
 
+### 1. Lenguajes y Bases de Datos
 <details>
-<summary>💾 1. Bases de Datos</summary>
+<summary>Explorar opciones backend</summary>
 
-- **SQL (PostgreSQL)**: Datos estructurados con relaciones (tablas, joins).
-- **NoSQL (MongoDB)**: Datos flexibles en formato JSON (ideal para escalar).
-- **ORM (Prisma)**: Mapeo objeto-relacional para trabajar con DB desde código.
+- **Node.js**: JavaScript en el servidor con ecosistema npm
+- **Python**: Django (baterías incluidas) y FastAPI (para APIs rápidas)
+- **Bases de datos**: PostgreSQL (SQL) vs MongoDB (NoSQL)
 </details>
 
-<details>
-<summary>🔗 2. APIs y Autenticación</summary>
-
-- **REST**: Arquitectura basada en endpoints (GET /users).
-- **GraphQL**: Consultas personalizadas para obtener solo los datos necesarios.
-- **JWT**: Tokens cifrados para autenticar usuarios sin guardar sesiones.
-</details>
+### 2. Construcción de APIs
+- **REST**: Estándar tradicional con endpoints específicos
+- **GraphQL**: Alternativa flexible desarrollada por Facebook
+- **Autenticación**: JWT, OAuth y sesiones seguras
 
 ## 🛠️ DevOps y Producción
 
-<details>
-<summary>🐳 1. Docker y Cloud</summary>
+### 1. Control de Versiones
+- **Git**: Sistema de control de versiones distribuido
+- **GitHub/GitLab**: Plataformas para colaboración en equipo
 
-- **Contenedores**: Paquetes autónomos con todo lo necesario para ejecutar una app.
-- **AWS EC2**: Servidores virtuales escalables en la nube de Amazon.
-- **CI/CD**: Automatización de pruebas y despliegues con GitHub Actions.
+### 2. Despliegue en Producción
+<details>
+<summary>Infraestructura moderna</summary>
+
+- **Docker**: Contenedores para entornos consistentes
+- **AWS/GCP**: Servicios cloud como EC2 y Cloud Run
+- **CI/CD**: Automatización con GitHub Actions o GitLab CI
 </details>
 
 ## 🚀 Tendencias 2025
-
-<details>
-<summary>🌐 Web3 y Blockchain</summary>
-
-- **Solidity**: Lenguaje para smart contracts en Ethereum.
-- **DApps**: Aplicaciones descentralizadas que corren sobre blockchain.
-</details>
-
-<details>
-<summary>🤖 IA Integrada</summary>
-
-- **LLMs (GPT-5, Claude)**: Modelos de lenguaje para chatbots y generación de contenido.
-- **TensorFlow.js**: Librería para implementar machine learning en el navegador.
-</details>
+- **Web3**: Desarrollo descentralizado con blockchain
+- **IA Integrada**: Uso de modelos como GPT en aplicaciones
+- **WebAssembly**: Ejecución de código de alto rendimiento
 
 ---
