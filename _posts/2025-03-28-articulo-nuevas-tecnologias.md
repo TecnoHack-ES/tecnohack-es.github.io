@@ -5,7 +5,7 @@ date: 2025-03-28
 permalink: /tecnologias-2025/  
 description: "Desde IA generativa hasta computación cuántica aplicada. En TecnoHack te revelamos las innovaciones tecnológicas que definirán el próximo año y cambiarán tu vida."  
 categories: articulo
-tags: [innovación, futuro-tech, tendencias 2025]  
+tags: [tecnologia]  
 ---  
 
 # Las Tecnologías que Dictarán el Rumbo en 2025  
