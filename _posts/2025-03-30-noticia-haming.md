@@ -1,5 +1,5 @@
 ---
-layout: noticia  
+layout: noticias
 title: "Assassin's Creed Shadows: Análisis Exhaustivo del Más Ambicioso Juego de la Saga"  
 date: 2025-03-30  
 permalink: /analisis-completo-assassins-creed-shadows/  
