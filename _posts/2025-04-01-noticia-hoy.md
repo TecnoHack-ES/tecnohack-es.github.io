@@ -1,7 +1,7 @@
 ---
 layout: noticias
 title: "Vulnerabilidad Crítica en Apache Tomcat Permite Ejecución Remota de Código: CVE-2025-24813"
-date: 2025-03-30
+date: 2025-04-01
 permalink: /vulnerabilidad-apache-tomcat-cve-2025-24813/
 description: "Una grave vulnerabilidad en Apache Tomcat ha sido explotada activamente, permitiendo la ejecución remota de código en servidores afectados. Descubre cómo proteger tu sistema."
 categories: noticias
