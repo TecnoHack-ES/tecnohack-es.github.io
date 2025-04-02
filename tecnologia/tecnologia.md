@@ -1,6 +1,6 @@
 ---
 layout: tecnologia_index
-title: Tecnologia - TecnoHack
+title: Tecnologia - TecnoHack-ES
 permalink: /tecnologia/
-description: "Mantente al día con los últimos artículos sobre tecnología en TecnoHack."
+description: "Explora el futuro hoy: artículos diarios sobre innovación tecnológica, gadgets revolucionarios y análisis profundos. TecnoHack es tu brújula en un mundo que avanza a bit/segundo."
 ---

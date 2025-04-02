@@ -1,6 +1,6 @@
 ---
 layout: ciberseguridad_index
-title: Ciberseguridad - TecnoHack
+title: Ciberseguridad - TecnoHack-ES
 permalink: /ciberseguridad/
-description: "Mantente al día con los últimos artículos sobre ciberseguridad en TecnoHack."
+description: "Protege tu mundo digital con los análisis más actuales de ciberseguridad en TecnoHack. Descubre vulnerabilidades, técnicas de hacking ético y tendencias tecnológicas antes que nadie."
 ---
