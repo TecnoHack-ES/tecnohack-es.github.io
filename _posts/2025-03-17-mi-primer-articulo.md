@@ -1,8 +1,9 @@
 ---
 layout: articulos
-title: "Sobre Nosotros"
+title: "Sobre Nosotros - TecnoHack-ES"
 date: 2025-03-17
 permalink: /sobre-nosotros/
+description: "Bienvenidos a TecnoHack, tu ventana al mundo de la ciberseguridad y los avances tecnológicos. Somos más que un blog; somos una comunidad de entusiastas, curiosos y expertos que comparten una pasión por entender y explorar el fascinante universo digital."
 ---
 
 # Sobre Nosotros
