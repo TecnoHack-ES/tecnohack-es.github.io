@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "TecnoHack: Tecnología, Gaming y Programación 2025 | Guías Prácticas"
+title: "Tecnología, Gaming y Programación 2025 | Tecnohack-ES"
 description: "Domina la tecnología con tutoriales paso a paso, análisis de gadgets y las últimas noticias gaming. ¡Expertos en IA, ciberseguridad y desarrollo web!"
 ---
 ## [¿Qúe es la tecnología?](/que-es-la-tecnologia/)
