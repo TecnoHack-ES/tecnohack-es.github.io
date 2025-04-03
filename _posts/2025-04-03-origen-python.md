@@ -1,6 +1,6 @@
 ---
 layout: articulos  
-title: "Python: La Historia del Lenguaje que Conquistó el Mundo (y Por Qué Sigue Dominando)"  
+title: "Python: La Historia del Lenguaje que Conquistó el Mundo"  
 date: 2025-04-03  
 permalink: /historia-evolucion-python/  
 description: "De humilde proyecto a rey indiscutible del desarrollo. En TecnoHack revelamos la fascinante historia de Python, sus claves de éxito y por qué sigue siendo la opción #1 en 2025."  
