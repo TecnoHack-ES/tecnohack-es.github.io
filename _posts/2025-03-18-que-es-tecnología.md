@@ -1,6 +1,6 @@
 ---
 layout: articulos
-title: "¿Qué es la Tecnología?"
+title: "¿Qué es la Tecnología en 2025?"
 date: 2025-03-17
 permalink: /que-es-la-tecnologia/
 description: "Definición actualizada, ejemplos reales y análisis exclusivo del equipo TecnoHack. Descubre cómo la IA, biotecnología y realidad extendida están cambiando el mundo."

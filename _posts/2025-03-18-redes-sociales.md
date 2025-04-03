@@ -1,7 +1,8 @@
 ---
 layout: articulos
-title: "Redes Sociales"
+title: "Redes Sociales | TecnoHack-ES"
 date: 2025-03-17
+description: "¡Conéctate con TecnoHack en TikTok, Reddit y Twitter! Descubre contenido exclusivo sobre ciberseguridad, tecnología y hacking ético. Únete a debates, mantente informado y forma parte de nuestra comunidad activa. Tecnología Ciberseguridad"
 permalink: /redes-sociales/
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: articulos
-title: "¿Qué es la Ciberseguridad?"
+title: "¿Qué es la Ciberseguridad en 2025?"
 date: 2025-03-17
 permalink: /que-es-la-ciberseguridad/
 description: "Descubre cómo la ciberseguridad está evolucionando en 2025: desde IA defensiva hasta leyes de protección de datos. Guía completa con casos reales y consejos del equipo TecnoHack."
