@@ -1,6 +1,6 @@
 ---
 layout: noticias
-title: "UE Declara Guerra a las Monedas Virtuales y Loot Boxes: ¿El Fin de los Micropagos Abusivos?"
+title: "UE Declara Guerra a las Monedas Virtuales y Loot Boxes"
 date: 2025-03-25
 permalink: /ue-regula-micropagos-videojuegos/
 description: "La Unión Europea prepara una normativa histórica contra loot boxes y monedas virtuales en videojuegos. En TecnoHack te explicamos cómo afectará a jugadores y desarrolladores."
