@@ -1,11 +1,11 @@
 ---
 layout: noticias  
-title: «CVE-2025-31334: Grave vulnerabilidad en WinRAR permite ejecución de código arbitrario»  
+title: "CVE-2025-31334: Grave vulnerabilidad en WinRAR permite ejecución de código arbitrario"
 date: 2025-04-04
 permalink: /vulnerabilidad-winrar-cve-2025-31334/  
-description: «TecnoHack alerta: Un fallo crítico en WinRAR permite saltarse protecciones Mark of the Web. 500M de usuarios en riesgo hasta que apliquen el parche.»  
+description: "TecnoHack alerta: Un fallo crítico en WinRAR permite saltarse protecciones Mark of the Web. 500M de usuarios en riesgo hasta que apliquen el parche."
 categories: noticias  
-tags: [ciberseguridad, mark-of-the-web]  
+tags: [ciberseguridad]  
 ---
 
 # CVE-2025-31334: Grave vulnerabilidad en WinRAR permite ejecución de código arbitrario  
