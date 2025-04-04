@@ -43,7 +43,7 @@ Investigadores de UC Riverside revelaron datos alarmantes:
 - *«Es plagio algorítmico»* — Sarah Andersen (autora de cómics)  
 - *«El ‘estilo Ghibli’ no es un preset, es una filosofía»* — Isao Takahata Jr. (animador)  
 
-`[INFOGRAFÍA]` → Flujo legal actual: ¿Quién posee los derechos de imágenes IA?  
+- Flujo legal actual: ¿Quién posee los derechos de imágenes IA?  
 
 ## ¿Hacia Dónde Va el Debate?  
 
