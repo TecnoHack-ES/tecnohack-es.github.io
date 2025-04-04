@@ -3,7 +3,7 @@ layout: noticias
 title: "Imágenes IA vs Arte Tradicional: La Batalla que Divide a la Industria"  
 date: 2025-04-04
 permalink: /imagenes-ia-polemica-arte-ghibli-agua/  
-description: «El hijo de Miyazaki defiende el arte manual tras viralizarse imágenes IA estilo Ghibli. Expertos alertan: generar 1000 imágenes gasta 2.5M de litros de agua.»  
+description: "El hijo de Miyazaki defiende el arte manual tras viralizarse imágenes IA estilo Ghibli. Expertos alertan: generar 1000 imágenes gasta 2.5M de litros de agua." 
 categories: noticias  
 tags: [inteligencia-artificial, studio-ghibli, medio-ambiente, arte-digital]  
 ---
