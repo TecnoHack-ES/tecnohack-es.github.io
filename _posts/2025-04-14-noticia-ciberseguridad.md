@@ -10,7 +10,7 @@ tags: [ciberseguridad]
 
 # Filtración Masiva en Plataforma de Movilidad: Datos de 300,000 Vehículos y Millones de Viajes Expuestos
 
-**Por el equipo de ciberseguridad de TecnoHack** · 1 de abril de 2025
+**Por el equipo de ciberseguridad de TecnoHack** · 14 de abril de 2025
 
 ![Filtración de datos en plataforma de movilidad](https://tecnohack-es.github.io/assets/img/brecha-movilidad-2025.jpg)
 
