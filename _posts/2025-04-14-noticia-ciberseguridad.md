@@ -1,6 +1,6 @@
 ---
 layout: noticias
-title: "Filtración Masiva en Plataforma de Movilidad: Datos de 300,000 Vehículos y Millones de Viajes Expuestos"
+title: "Filtración Masiva en Plataforma de Movilidad: Datos de 300,000 Vehículos"
 date: 2025-04-14
 permalink: /brecha-seguridad-movilidad/
 description: "Una grave brecha de seguridad ha expuesto datos sensibles de 300,000 vehículos y millones de viajes. Descubre si estás afectado y cómo protegerte."
